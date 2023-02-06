@@ -1,0 +1,8 @@
+.container .text {
+    background-color: yellow;
+    text-align: center;
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+    font-weight: lighter;
+    color: red;
+    font-size: 20px;
+}
