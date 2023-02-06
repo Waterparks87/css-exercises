@@ -1,0 +1,16 @@
+.first .second {
+    font-family: "Helvetica Neue", Helvetica, sans-serif;
+    font-size: 28px;
+    border-style: outset;
+    border-color: grey;
+}
+
+.first {
+    background-color: #4b2467;
+    color: whitesmoke;
+}
+
+.second {
+    background-color: aquamarine;
+    color: #000000;
+}
